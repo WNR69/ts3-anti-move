@@ -1,4 +1,4 @@
-# ts3-anti-move
+# ts3-anti-move api 26
 
 orginal plugin creator https://community.teamspeak.com/t/release-return-to-last-channel-w-anti-move
 
